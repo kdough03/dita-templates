@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_api_method">
+    <title>Title of Method</title>
+    <shortdesc>Describe what the method does.</shortdesc>
+    <refbody>
+        <section><p>HTTP Method</p></section>
+        <section><p><codeblock>URL/Definition</codeblock></p></section>
+        <section><p>Parameters</p></section>
+        <properties>
+            <prophead>
+                <proptypehd>Parameter</proptypehd>
+                <propvaluehd>Type</propvaluehd>
+                <propdeschd>Description</propdeschd>
+            </prophead>
+            <property>
+                <proptype></proptype>
+                <propvalue></propvalue>
+                <propdesc></propdesc>
+            </property>
+            <property>
+                <proptype></proptype>
+                <propvalue></propvalue>
+                <propdesc></propdesc>
+            </property>
+        </properties>   
+        <section>
+            <p>Example Request</p>
+            <p><codeblock></codeblock></p>
+        </section>
+        <section>
+            <p>Response</p>
+            <p><codeblock></codeblock></p>
+        </section>
+        <section>
+            Response Elements
+        </section>
+        <section>
+            <properties>
+                <prophead>
+                    <proptypehd>Element</proptypehd>
+                    <propvaluehd>Type</propvaluehd>
+                    <propdeschd>Description</propdeschd>
+                </prophead>
+                <property>
+                    <proptype></proptype>
+                    <propvalue></propvalue>
+                    <propdesc></propdesc>
+                </property>
+                <property>
+                    <proptype></proptype>
+                    <propvalue></propvalue>
+                    <propdesc></propdesc>
+                </property>
+            </properties>   
+        </section>
+    </refbody>
+</reference>
